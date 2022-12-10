@@ -36,6 +36,8 @@ class MyThemeData{
             fontWeight: FontWeight.bold,
             color: colorGreen,
       ),),
+    floatingActionButtonTheme: FloatingActionButtonThemeData(
+      backgroundColor: primaryColor,),
     bottomNavigationBarTheme: BottomNavigationBarThemeData(
       backgroundColor: Colors.white,
       unselectedItemColor: primaryColor,
@@ -75,6 +77,9 @@ class MyThemeData{
         fontWeight: FontWeight.bold,
         color: colorGreen,
       ),),
+    floatingActionButtonTheme: FloatingActionButtonThemeData(
+      backgroundColor: primaryColor,
+    ),
     bottomNavigationBarTheme: BottomNavigationBarThemeData(
       backgroundColor: Colors.white,
       unselectedItemColor: primaryColor,
