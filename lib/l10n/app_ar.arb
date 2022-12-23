@@ -1,0 +1,20 @@
+{
+    "titleButton": "اللغة",
+    "buttonEnglish":"انجليزي",
+    "buttonArabic":"عربي",
+    "titleBtn":"الوضع",
+    "btnLight":"فاتح",
+    "btnDark":"داكن",
+    "headoftask":"أضف مهمة جديدة",
+    "titleoftask":"عنوان المهمة",
+    "descriptionoftask":"وصف المهمة",
+    "dateoftask":"التاريخ المختار",
+    "buttontask":"أضف المهمة",
+    "headofedit":"تعديل المهمة",
+    "titleofedit":"عنوان جديد",
+    "descriptionofedit":"وصف جديد",
+    "dateofedit":"اختار تاريخ جديد",
+    "buttonedit":"حفظ التغييرات",
+    "titlemessage":"تمت الاضافة ",
+    "titleeditmessage":"تم التعديل بنجاح "
+}

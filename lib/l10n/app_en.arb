@@ -1,0 +1,21 @@
+{
+    "titleButton": "Language",
+    "buttonEnglish":"English",
+    "buttonArabic":"Arabic",
+    "titleBtn":"Mode",
+    "btnLight":"Light",
+    "btnDark":"dark",
+    "headoftask":"Add New Task",
+    "titleoftask":"Title",
+    "descriptionoftask":"Description",
+    "dateoftask":"Selected Date",
+    "buttontask":"Add Task",
+    "headofedit":"Edit Task",
+    "titleofedit":"New Title",
+    "descriptionofedit":"New Description",
+    "dateofedit":"Select New Date",
+    "buttonedit":"Save Changes",
+    "titlemessage":"Task Added",
+    "titleeditmessage":"Task Edited Successfully"
+
+}

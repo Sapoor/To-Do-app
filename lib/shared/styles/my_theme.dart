@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'colors.dart';
 
 class MyThemeData{
@@ -19,7 +18,7 @@ class MyThemeData{
       background: Colors.green,
       onBackground:primaryColor,
       surface: Colors.grey,
-      onSurface: Colors.white,
+      onSurface: colorBlack,
     ),
       appBarTheme:AppBarTheme(
         iconTheme: IconThemeData(color: colorBlack),
@@ -47,19 +46,19 @@ class MyThemeData{
   );
 
   static ThemeData darkTheme = ThemeData(
-    primaryColor:primaryColor ,
-    scaffoldBackgroundColor: greenBackground,
+    primaryColor:primaryDark ,
+    scaffoldBackgroundColor: primaryDark,
     colorScheme: ColorScheme(
-      brightness: Brightness.light,
-      primary: primaryColor,
+      brightness: Brightness.dark,
+      primary: primaryDark,
       onPrimary:Colors.white,
-      secondary:greenBackground,
+      secondary:colorGreen,
       onSecondary: Colors.white,
       error: Colors.red,
       onError: Colors.white,
-      background: Colors.green,
+      background: primaryDark,
       onBackground:primaryColor,
-      surface: Colors.grey,
+      surface: primaryDark,
       onSurface: Colors.white,
     ),
     appBarTheme:AppBarTheme(
